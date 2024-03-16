@@ -1,0 +1,23 @@
+@import url(https://fonts.bunny.net/css?family=rubik:300,500,700);
+
+:root {
+  --black: #000000;
+  --white: #ffffff;
+  --dimmed: #ccc;
+}
+
+body {
+  font-family: "Rubik", sans-serif;
+  color: var(--white);
+  padding: 0;
+  margin: 0;
+  font-size: 17px;
+  background-color: var(--black);
+}
+
+@media (max-width: 768px) {
+  html,
+  body {
+    font-size: 12px;
+  }
+}

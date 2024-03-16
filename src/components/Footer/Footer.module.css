@@ -1,0 +1,15 @@
+.footer {
+}
+
+.inner {
+  max-width: 80rem;
+  margin: 0 auto;
+  padding: 4rem;
+  font-size: 1.3rem;
+  font-weight: 300;
+  text-align: center;
+  line-height: 1.5;
+  a {
+    color: var(--white);
+  }
+}
