@@ -50,6 +50,10 @@
     font-size: 1.5rem;
     color: var(--dimmed);
   }
+  a {
+    text-decoration: none;
+    color: var(--dimmed);
+  }
 }
 
 .image {
